@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/DSA_with_kunal.iml" filepath="$PROJECT_DIR$/DSA_with_kunal.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+>>>>>>> 22c3a9cc5ce0ea91b2fd30bd093dacf5e80570cc
     </modules>
   </component>
 </project>
